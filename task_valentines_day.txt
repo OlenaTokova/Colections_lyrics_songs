@@ -1,0 +1,4 @@
+1. Function for creating a search query to Google.com for search song on the web site: https://lyrics.lyricfind.com/
+https://www.google.com/search?q=site%3Ahttps%3A%2F%2Flyrics.lyricfind.com+elton+john+candle+in+the+wind
+
+It will be a pattern for search lyrics song text
