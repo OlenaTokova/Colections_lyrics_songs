@@ -18,6 +18,9 @@ The main goal is to automate the retrieval of song lyrics and YouTube video link
  - Automated Browser Interaction: Selenium simulates a user browsing to handle JavaScript-rendered website content.
 # Visualization and Image Processing
  - Streamlit: Used for building a user-friendly web interface where results are displayed. It provides interactive elements like text inputs and buttons.
+
+ - ![Screenshot 2024-04-23 131338](https://github.com/OlenaTokova/Colections_lyrics_songs/assets/153076354/ee6b1547-819b-432d-9ff0-d7f98f8690f4)
+
 # Potential Future Uses and Utility
 - Integration into Music Apps: This tool could be integrated into music applications to provide lyrics and video links alongside streaming services.
  - Research and Education: Useful in academic settings where students or researchers analyze song lyrics or study music videos.
